@@ -86,8 +86,8 @@ Each folder contains everything needed to understand and reproduce the solution 
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
+- GitHub: [@MDuqi](https://github.com/MDuqi)
+- LinkedIn: [Matheus Duque]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/matheus-duque-4b2929239/))
 
 ---
 
