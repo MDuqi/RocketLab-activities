@@ -87,7 +87,7 @@ Each folder contains everything needed to understand and reproduce the solution 
 
 **Your Name**
 - GitHub: [@MDuqi](https://github.com/MDuqi)
-- LinkedIn: [Matheus Duque]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/matheus-duque-4b2929239/))
+- LinkedIn: [Matheus Duque](https://www.linkedin.com/in/matheus-duque-4b2929239/)
 
 ---
 
