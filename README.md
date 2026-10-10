@@ -75,8 +75,10 @@ Each folder contains everything needed to understand and reproduce the solution 
 
 | Activity | Folder | Status |
 |----------|--------|--------|
-| Activity 1 | [`activity-1`](./activity-1) | ⏳ In progress |
-| Activity 2 | [`activity-2`](./activity-2) | 🔜 Coming soon |
+| Activity 1 | [`activity-1`](./activity-1) | ✅ Done |
+| Activity 2 | [`activity-2`](./activity-2) | ✅ Done |
+| Activity 3 | [`activity-3`](./activity-3) | ⌛ In progress |
+| Activity 4 | [`activity-4`](./activity-4) | 🔜 Coming soon |
 | ... | ... | ... |
 
 > This table will be updated as new activities are released and solved.
