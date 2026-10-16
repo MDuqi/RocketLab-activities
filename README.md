@@ -77,8 +77,7 @@ Each folder contains everything needed to understand and reproduce the solution 
 |----------|--------|--------|
 | Activity 1 | [`activity-1`](./activity-1) | ✅ Done |
 | Activity 2 | [`activity-2`](./activity-2) | ✅ Done |
-| Activity 3 | [`activity-3`](./activity-3) | ⌛ In progress |
-| Activity 4 | [`activity-4`](./activity-4) | 🔜 Coming soon |
+| Activity 3 | [`activity-3`](./activity-3) | ✅ Done |
 | ... | ... | ... |
 
 > This table will be updated as new activities are released and solved.
